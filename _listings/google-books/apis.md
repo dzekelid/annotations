@@ -27,7 +27,7 @@ apis:
   tags: Annotation
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/annotation/master/_listings/google-books/volumes-volumeid-layers-layerid-data-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/annotation/master/_listings/google-books/volumes-volumeid-layers-layerid-data-annotationdataid-get.md
 x-common:
 - type: x-blog
   url: http://booksearch.blogspot.com
