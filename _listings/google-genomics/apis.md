@@ -27,7 +27,7 @@ apis:
   tags: Annotation
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/annotation/master/_listings/google-genomics/v1-annotations-search-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/annotation/master/_listings/google-genomics/v1-annotations-annotationid-delete.md
 x-common:
 - type: x-documentation
   url: https://cloud.google.com/genomics/overview
