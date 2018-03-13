@@ -27,7 +27,7 @@ apis:
   tags: Annotation
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/annotation/master/_listings/google-books/mylibrary-annotations-annotationid-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/annotation/master/_listings/google-books/mylibrary-annotations-annotationid-put.md
 x-common:
 - type: x-blog
   url: http://booksearch.blogspot.com
