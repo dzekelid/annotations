@@ -1,10 +1,10 @@
-title: Streamdata Gallery Annotation
-url: annotation.streamdata.gallery
-tag: Annotation
+title: Streamdata Gallery Annotations
+url: annotations.streamdata.gallery
+tag: Annotations
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: annotation
+github_repo: annotations
 github_branch: master
 collections:
   listings:
