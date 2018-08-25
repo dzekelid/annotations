@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/hypothes-is/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Hypothes.is
-  x-api-slug: hypothes-is
-  description: Our mission is to bring a new layer to the web. Use Hypothesis to discuss,
-    collaborate, organize your research, or take personal notes.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hypothesis-logo.png
-  humanURL: https://hypothes.is/
-  baseURL: https:///
-  tags: Annotations
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/hypothes-is/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://hypothes.is/blog/
