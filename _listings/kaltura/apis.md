@@ -14,8 +14,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kalt
 x-kinRank: "7"
 x-alexaRank: "23496"
 tags: Annotations
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/apis.md
 specificationVersion: "0.14"
 apis:
@@ -281,6 +281,137 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionupdatestatus-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionupdatestatus-get-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action Updatestatus
+  x-api-slug: serviceannotation-annotationactionupdatestatus-get
+  description: Update cuePoint status by id
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionupdatestatus-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionupdatestatus-get-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action Update
+  x-api-slug: serviceannotation-annotationactionupdate-get
+  description: Update annotation by id
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionupdate-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionupdate-get-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action Servebulk
+  x-api-slug: serviceannotation-annotationactionservebulk-get
+  description: Download multiple cue points objects as XML definitions
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionservebulk-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionservebulk-get-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action List
+  x-api-slug: serviceannotation-annotationactionlist-get
+  description: List annotation objects by filter and pager
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionlist-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionlist-get-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action Get
+  x-api-slug: serviceannotation-annotationactionget-get
+  description: Retrieve an CuePoint object by id
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionget-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionget-get-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action Delete
+  x-api-slug: serviceannotation-annotationactiondelete-get
+  description: delete cue point by id, and delete all children cue points
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactiondelete-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactiondelete-get-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action Count
+  x-api-slug: serviceannotation-annotationactioncount-get
+  description: count cue point objects by filter
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactioncount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactioncount-get-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action Clone
+  x-api-slug: serviceannotation-annotationactionclone-get
+  description: Clone cuePoint with id to given entry
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionclone-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionclone-get-openapi.md
+- name: Kaltura VPaaS - Post Service Annotation Annotation Action Addfrombulk
+  x-api-slug: serviceannotation-annotationactionaddfrombulk-post
+  description: Allows you to add multiple cue points objects by uploading XML that
+    contains multiple cue point definitions
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionaddfrombulk-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionaddfrombulk-post-openapi.md
+- name: Kaltura VPaaS - Get Service Annotation Annotation Action Add
+  x-api-slug: serviceannotation-annotationactionadd-get
+  description: Allows you to add an annotation object associated with an entry
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  humanURL: http://kaltura.com
+  baseURL: https://www.kaltura.com//api_v3
+  tags: SaaS, Technology, Enterprise, API Provider, Videos, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionadd-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/kaltura/serviceannotation-annotationactionadd-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://jumpseller.api.gallery.streamdata.io

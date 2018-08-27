@@ -12,11 +12,39 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Annotations
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/google-cloud-natural-language/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Google Cloud Natural Language - Annotate Text
+  x-api-slug: v1documentsannotatetext-post
+  description: |-
+    A convenience method that provides all the features that analyzeSentiment,
+    analyzeEntities, and analyzeSyntax provide in one call.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png
+  humanURL: https://cloud.google.com/natural-language/
+  baseURL: ://language.googleapis.com//
+  tags: Sentiment Analysis, Machine Learning, Natural Language, Google APIs, Stack
+    Network, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/google-cloud-natural-language/v1documentsannotatetext-post-openapi.md
+- name: Google Cloud Natural Language - Annotate Text
+  x-api-slug: v1documentsannotatetext-post
+  description: |-
+    A convenience method that provides all the features that analyzeSentiment,
+    analyzeEntities, and analyzeSyntax provide in one call.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png
+  humanURL: https://cloud.google.com/natural-language/
+  baseURL: ://language.googleapis.com//
+  tags: Sentiment Analysis, Machine Learning, Natural Language, Google APIs, Stack
+    Network, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/annotations/master/_listings/google-cloud-natural-language/v1documentsannotatetext-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.machine.learning.engine.api.gallery.streamdata.io
